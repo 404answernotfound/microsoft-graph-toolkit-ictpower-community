@@ -1,0 +1,1 @@
+# Tutorial per Microsoft Graph Toolkit da seguire su ICTPower
